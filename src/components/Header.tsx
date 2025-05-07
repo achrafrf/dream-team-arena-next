@@ -32,6 +32,9 @@ const Header = () => {
           <Link to="/my-team" className="hover:text-fantasy-accent transition-colors">
             My Team
           </Link>
+          <Link to="/team" className="hover:text-fantasy-accent transition-colors">
+            Team Page
+          </Link>
           <Link to="/leaderboard" className="hover:text-fantasy-accent transition-colors">
             Leaderboard
           </Link>
@@ -62,6 +65,13 @@ const Header = () => {
               onClick={() => setIsMenuOpen(false)}
             >
               My Team
+            </Link>
+            <Link 
+              to="/team" 
+              className="hover:bg-fantasy-purple px-4 py-2 rounded-md transition-colors"
+              onClick={() => setIsMenuOpen(false)}
+            >
+              Team Page
             </Link>
             <Link 
               to="/leaderboard" 
