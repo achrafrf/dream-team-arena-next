@@ -14,7 +14,15 @@ import TeamPage from "./pages/TeamPage";
 import Betting from "./pages/Betting";
 import NotFound from "./pages/NotFound";
 
-const queryClient = new QueryClient();
+// Create a client with default options optimized for latest Vite
+const queryClient = new QueryClient({
+  defaultOptions: {
+    queries: {
+      refetchOnWindowFocus: false,
+      staleTime: 1000 * 60 * 5, // 5 minutes
+    },
+  },
+});
 
 const App = () => (
   <QueryClientProvider client={queryClient}>
@@ -40,3 +48,4 @@ const App = () => (
 );
 
 export default App;
+
