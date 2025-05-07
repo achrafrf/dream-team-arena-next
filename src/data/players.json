@@ -1,0 +1,407 @@
+
+{
+  "players": [
+    {
+      "id": 1,
+      "name": "Alisson",
+      "club": "Liverpool",
+      "clubCode": "LIV",
+      "position": "GK",
+      "price": 5.5,
+      "form": 8.2,
+      "points": 176,
+      "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p116535.png"
+    },
+    {
+      "id": 2,
+      "name": "Ederson",
+      "club": "Man City",
+      "clubCode": "MCI",
+      "position": "GK",
+      "price": 5.4,
+      "form": 7.8,
+      "points": 169,
+      "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p121160.png"
+    },
+    {
+      "id": 3,
+      "name": "Pope",
+      "club": "Newcastle",
+      "clubCode": "NEW",
+      "position": "GK",
+      "price": 5.2,
+      "form": 7.5,
+      "points": 164,
+      "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p80006.png"
+    },
+    {
+      "id": 4,
+      "name": "Ramsdale",
+      "club": "Arsenal",
+      "clubCode": "ARS",
+      "position": "GK",
+      "price": 4.9,
+      "form": 7.1,
+      "points": 135,
+      "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p225321.png"
+    },
+    {
+      "id": 5,
+      "name": "Alexander-Arnold",
+      "club": "Liverpool",
+      "clubCode": "LIV",
+      "position": "DEF",
+      "price": 7.8,
+      "form": 8.5,
+      "points": 185,
+      "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p169187.png"
+    },
+    {
+      "id": 6,
+      "name": "Robertson",
+      "club": "Liverpool",
+      "clubCode": "LIV",
+      "position": "DEF",
+      "price": 6.8,
+      "form": 7.9,
+      "points": 161,
+      "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p122798.png"
+    },
+    {
+      "id": 7,
+      "name": "Dias",
+      "club": "Man City",
+      "clubCode": "MCI",
+      "position": "DEF",
+      "price": 6.2,
+      "form": 7.8,
+      "points": 148,
+      "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p171314.png"
+    },
+    {
+      "id": 8,
+      "name": "Trippier",
+      "club": "Newcastle",
+      "clubCode": "NEW",
+      "position": "DEF",
+      "price": 6.0,
+      "form": 8.3,
+      "points": 172,
+      "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p55914.png"
+    },
+    {
+      "id": 9,
+      "name": "Saliba",
+      "club": "Arsenal",
+      "clubCode": "ARS",
+      "position": "DEF",
+      "price": 5.8,
+      "form": 7.6,
+      "points": 152,
+      "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p462424.png"
+    },
+    {
+      "id": 10,
+      "name": "Chilwell",
+      "club": "Chelsea",
+      "clubCode": "CHE",
+      "position": "DEF",
+      "price": 5.6,
+      "form": 6.8,
+      "points": 120,
+      "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p172850.png"
+    },
+    {
+      "id": 11,
+      "name": "Shaw",
+      "club": "Man United",
+      "clubCode": "MUN",
+      "position": "DEF",
+      "price": 5.4,
+      "form": 7.2,
+      "points": 130,
+      "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p106760.png"
+    },
+    {
+      "id": 12,
+      "name": "Dunk",
+      "club": "Brighton",
+      "clubCode": "BHA",
+      "position": "DEF",
+      "price": 5.0,
+      "form": 6.9,
+      "points": 125,
+      "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p60307.png"
+    },
+    {
+      "id": 13,
+      "name": "De Bruyne",
+      "club": "Man City",
+      "clubCode": "MCI",
+      "position": "MID",
+      "price": 10.2,
+      "form": 8.9,
+      "points": 200,
+      "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p61366.png"
+    },
+    {
+      "id": 14,
+      "name": "Salah",
+      "club": "Liverpool",
+      "clubCode": "LIV",
+      "position": "MID",
+      "price": 12.5,
+      "form": 9.2,
+      "points": 220,
+      "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p118748.png"
+    },
+    {
+      "id": 15,
+      "name": "Son",
+      "club": "Tottenham",
+      "clubCode": "TOT",
+      "position": "MID",
+      "price": 10.0,
+      "form": 8.7,
+      "points": 195,
+      "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p85971.png"
+    },
+    {
+      "id": 16,
+      "name": "Saka",
+      "club": "Arsenal",
+      "clubCode": "ARS",
+      "position": "MID",
+      "price": 8.8,
+      "form": 8.1,
+      "points": 186,
+      "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p223340.png"
+    },
+    {
+      "id": 17,
+      "name": "Bruno Fernandes",
+      "club": "Man United",
+      "clubCode": "MUN",
+      "position": "MID",
+      "price": 8.4,
+      "form": 7.8,
+      "points": 175,
+      "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p141746.png"
+    },
+    {
+      "id": 18,
+      "name": "Foden",
+      "club": "Man City",
+      "clubCode": "MCI",
+      "position": "MID",
+      "price": 8.2,
+      "form": 8.3,
+      "points": 179,
+      "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p209244.png"
+    },
+    {
+      "id": 19,
+      "name": "Mount",
+      "club": "Chelsea",
+      "clubCode": "CHE",
+      "position": "MID",
+      "price": 7.5,
+      "form": 7.1,
+      "points": 149,
+      "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p184341.png"
+    },
+    {
+      "id": 20,
+      "name": "Bowen",
+      "club": "West Ham",
+      "clubCode": "WHU",
+      "position": "MID",
+      "price": 7.2,
+      "form": 7.3,
+      "points": 157,
+      "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p178186.png"
+    },
+    {
+      "id": 21,
+      "name": "Haaland",
+      "club": "Man City",
+      "clubCode": "MCI",
+      "position": "FWD",
+      "price": 14.0,
+      "form": 9.5,
+      "points": 240,
+      "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p223094.png"
+    },
+    {
+      "id": 22,
+      "name": "Kane",
+      "club": "Tottenham",
+      "clubCode": "TOT",
+      "position": "FWD",
+      "price": 11.5,
+      "form": 8.9,
+      "points": 210,
+      "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p78830.png"
+    },
+    {
+      "id": 23,
+      "name": "Núñez",
+      "club": "Liverpool",
+      "clubCode": "LIV",
+      "position": "FWD",
+      "price": 9.0,
+      "form": 7.6,
+      "points": 166,
+      "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p447203.png"
+    },
+    {
+      "id": 24,
+      "name": "Jesus",
+      "club": "Arsenal",
+      "clubCode": "ARS",
+      "position": "FWD",
+      "price": 8.0,
+      "form": 7.8,
+      "points": 171,
+      "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p205651.png"
+    },
+    {
+      "id": 25,
+      "name": "Vardy",
+      "club": "Leicester",
+      "clubCode": "LEI",
+      "position": "FWD",
+      "price": 8.5,
+      "form": 7.5,
+      "points": 164,
+      "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p101668.png"
+    },
+    {
+      "id": 26,
+      "name": "Isak",
+      "club": "Newcastle",
+      "clubCode": "NEW",
+      "position": "FWD",
+      "price": 7.8,
+      "form": 8.1,
+      "points": 175,
+      "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p243016.png"
+    },
+    {
+      "id": 27,
+      "name": "Watkins",
+      "club": "Aston Villa",
+      "clubCode": "AVL",
+      "position": "FWD",
+      "price": 7.5,
+      "form": 7.7,
+      "points": 170,
+      "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p178301.png"
+    },
+    {
+      "id": 28,
+      "name": "Toney",
+      "club": "Brentford",
+      "clubCode": "BRE",
+      "position": "FWD",
+      "price": 7.2,
+      "form": 7.3,
+      "points": 161,
+      "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p114779.png"
+    },
+    {
+      "id": 29,
+      "name": "Jiménez",
+      "club": "Wolves",
+      "clubCode": "WOL",
+      "position": "FWD",
+      "price": 6.8,
+      "form": 6.5,
+      "points": 140,
+      "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p102057.png"
+    },
+    {
+      "id": 30,
+      "name": "Wilson",
+      "club": "Newcastle",
+      "clubCode": "NEW",
+      "position": "FWD",
+      "price": 7.0,
+      "form": 7.0,
+      "points": 150,
+      "image": "https://resources.premierleague.com/premierleague/photos/players/110x140/p75115.png"
+    }
+  ],
+  "leaderboard": [
+    {
+      "rank": 1,
+      "name": "FPL Master",
+      "teamName": "Purple Reign",
+      "points": 2485,
+      "managerName": "Sarah Johnson"
+    },
+    {
+      "rank": 2,
+      "name": "King of the North",
+      "teamName": "Winter Wolves",
+      "points": 2470,
+      "managerName": "Jon Snow"
+    },
+    {
+      "rank": 3,
+      "name": "Salah-vation",
+      "teamName": "Egyptian Kings",
+      "points": 2450,
+      "managerName": "Mark Phillips"
+    },
+    {
+      "rank": 4,
+      "name": "No Kane No Gain",
+      "teamName": "Spurs Glory",
+      "points": 2435,
+      "managerName": "Daniel White"
+    },
+    {
+      "rank": 5,
+      "name": "Pep Roulette",
+      "teamName": "City Slickers",
+      "points": 2420,
+      "managerName": "Emma Martinez"
+    },
+    {
+      "rank": 6,
+      "name": "Haaland's Heroes",
+      "teamName": "Viking Warriors",
+      "points": 2410,
+      "managerName": "Lars Peterson"
+    },
+    {
+      "rank": 7,
+      "name": "Red Devils United",
+      "teamName": "Glory Glory",
+      "points": 2380,
+      "managerName": "Ryan Giggs"
+    },
+    {
+      "rank": 8,
+      "name": "Gunner Glory",
+      "teamName": "North London Red",
+      "points": 2365,
+      "managerName": "Theo Adams"
+    },
+    {
+      "rank": 9,
+      "name": "Blue Moon Rising",
+      "teamName": "Shark Team",
+      "points": 2340,
+      "managerName": "Kevin Brown"
+    },
+    {
+      "rank": 10,
+      "name": "Klopp's Mentality Monsters",
+      "teamName": "Anfield Express",
+      "points": 2320,
+      "managerName": "James Henderson"
+    }
+  ]
+}
